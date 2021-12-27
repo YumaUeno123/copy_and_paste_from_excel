@@ -1,0 +1,34 @@
+.container {
+  padding: 20px;
+}
+
+.paste-container {
+  height: 200px;
+  border: 1px solid #333;
+}
+
+.table-container {
+  width: 100%;
+  max-height: 600px;
+  overflow: scroll;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.td {
+  border: 1px solid #333;
+  padding: 8px;
+  min-width: 200px;
+  max-width: 500px;
+  word-break: break-all;
+}
+
+.btn {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
